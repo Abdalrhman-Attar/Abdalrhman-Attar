@@ -47,23 +47,71 @@ I use **Claude Code** multi-agent workflows for builds, QA and audits, and I man
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="assets/icon-rider.svg" width="56"/><br/><b>Ride-sharing (rider)</b><br/><sub>Flutter · GetX · Pusher · Maps</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.sawaride">Play</a> · <a href="https://apps.apple.com/us/app/sawa-ride/id6757856032">App Store</a></td>
-<td align="center" width="25%"><img src="assets/icon-driver.svg" width="56"/><br/><b>Ride-sharing (driver)</b><br/><sub>Flutter · GetX · FCM · Maps</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.sawaridedriver">Play</a> · <a href="https://apps.apple.com/us/app/sawa-ride-driver/id6757861025">App Store</a></td>
-<td align="center" width="25%"><img src="assets/icon-fashion.svg" width="56"/><br/><b>Fashion e-commerce</b><br/><sub>Flutter · Bloc · PayTabs · Geidea</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.lussito">Play</a> · <a href="https://apps.apple.com/us/app/lussito/id6795830923">App Store</a></td>
-<td align="center" width="25%"><img src="assets/icon-tourism.svg" width="56"/><br/><b>Tourism app</b><br/><sub>Amman Chamber of Commerce</sub><br/><a href="https://play.google.com/store/apps/details?id=com.visit.amman.dottechjo">Play</a> · <a href="https://apps.apple.com/jo/app/visit-amman/id6748395517">App Store</a></td>
+<th></th><th align="left">App</th><th align="left">Built with</th><th align="left">Get it</th>
 </tr>
 <tr>
-<td align="center"><img src="assets/icon-cars.svg" width="56"/><br/><b>Car marketplace</b><br/><sub>Flutter · GetX · OTP</sub><br/><a href="https://play.google.com/store/apps/details?id=com.daleelalhurra.frontend">Play</a> · <a href="https://apps.apple.com/ly/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9/id6670617809">App Store</a></td>
-<td align="center"><img src="assets/icon-alumni.svg" width="56"/><br/><b>Alumni community</b><br/><sub>WebSocket chat · QR tickets</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.bsa">Play</a> · <a href="https://apps.apple.com/us/app/bishop-school-alumni/id6766196524">App Store</a></td>
-<td align="center"><img src="assets/icon-lease.svg" width="56"/><br/><b>Lease contracts</b><br/><sub>e-signature · ID scan</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.musaddaq">Play</a> · <a href="https://apps.apple.com/us/app/musaddaq/id6760346078">App Store</a></td>
-<td align="center"><img src="assets/icon-wedding.svg" width="56"/><br/><b>Wedding services</b><br/><sub>Flutter · GetX · deep links</sub><br/><a href="https://play.google.com/store/apps/details?id=com.dottech.orsi">Play</a></td>
+<td><img src="assets/icon-rider.svg" width="44"/></td>
+<td><b>Sawa Ride</b><br/><sub>Ride-sharing · rider app</sub></td>
+<td><sub>Flutter · GetX · Pusher · Google Maps</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.sawaride"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/us/app/sawa-ride/id6757856032"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
 </tr>
 <tr>
-<td align="center"><img src="assets/icon-ngo.svg" width="56"/><br/><b>NGO operations</b><br/><sub>Flutter · Bloc · 492 tests</sub><br/><a href="https://play.google.com/store/apps/details?id=com.tarabot.app">Play</a></td>
-<td align="center"><img src="assets/icon-speech.svg" width="56"/><br/><b>Speech-therapy parents</b><br/><sub>QR device pairing</sub><br/><a href="https://apps.apple.com/us/app/kaleem-parents/id6822817724">App Store</a></td>
-<td align="center" colspan="2"><sub>Most of my code lives in private client repositories,<br/>so the public repos here are only a small part of my work.</sub></td>
+<td><img src="assets/icon-driver.svg" width="44"/></td>
+<td><b>Sawa Ride Driver</b><br/><sub>Ride-sharing · driver app</sub></td>
+<td><sub>Flutter · GetX · FCM · Google Maps</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.sawaridedriver"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/us/app/sawa-ride-driver/id6757861025"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-fashion.svg" width="44"/></td>
+<td><b>Lussito</b><br/><sub>Fashion e-commerce · Jordan &amp; Saudi</sub></td>
+<td><sub>Flutter · Bloc · PayTabs · Geidea</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.lussito"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/us/app/lussito/id6795830923"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-tourism.svg" width="44"/></td>
+<td><b>Visit Amman</b><br/><sub>Tourism · Amman Chamber of Commerce</sub></td>
+<td><sub>Flutter · Maps · QR offers</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.visit.amman.dottechjo"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/jo/app/visit-amman/id6748395517"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-cars.svg" width="44"/></td>
+<td><b>Daleel Al Hurra</b><br/><sub>Car-listings marketplace</sub></td>
+<td><sub>Flutter · GetX · OTP sign-in</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.daleelalhurra.frontend"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/ly/app/%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A9/id6670617809"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-alumni.svg" width="44"/></td>
+<td><b>Bishop School Alumni</b><br/><sub>Alumni community &amp; events</sub></td>
+<td><sub>Flutter · WebSocket chat · QR tickets</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.bsa"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/us/app/bishop-school-alumni/id6766196524"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-lease.svg" width="44"/></td>
+<td><b>Musaddaq</b><br/><sub>Lease-contract registration</sub></td>
+<td><sub>Flutter · e-signature · ID scan</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.musaddaq"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a><br/><a href="https://apps.apple.com/us/app/musaddaq/id6760346078"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-wedding.svg" width="44"/></td>
+<td><b>Orsi</b><br/><sub>Wedding-services marketplace</sub></td>
+<td><sub>Flutter · GetX · deep links</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.dottech.orsi"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-ngo.svg" width="44"/></td>
+<td><b>Tarabot</b><br/><sub>NGO operations platform</sub></td>
+<td><sub>Flutter · Bloc · 492 tests</sub></td>
+<td><a href="https://play.google.com/store/apps/details?id=com.tarabot.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a></td>
+</tr>
+<tr>
+<td><img src="assets/icon-speech.svg" width="44"/></td>
+<td><b>Kaleem Parents</b><br/><sub>Speech-therapy parent app</sub></td>
+<td><sub>Flutter · Bloc · QR pairing</sub></td>
+<td><a href="https://apps.apple.com/us/app/kaleem-parents/id6822817724"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store"/></a></td>
 </tr>
 </table>
+
+<sub>Most of my code lives in private client repositories, so the public repos here are only a small part of my work.</sub>
 
 ## 🧰 Tech stack
 
