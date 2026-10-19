@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Abdalrhman Attar — Mobile & Full-Stack Developer (Flutter), Amman, Jordan"/>
+<img src="assets/header.svg" width="100%" alt="Abdalrhman Attar — Mobile & Full-Stack Developer, Amman, Jordan"/>
 
 <a href="https://www.linkedin.com/in/abdalrhmanalattar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alattarabdalrhman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
+<br/><br/>
+
+<a href="#-published-apps"><img src="assets/phone-dottech.svg" width="32%" alt="Dot Tech client apps I built"/></a>
+<a href="#-where-ive-worked"><img src="assets/phone-numbers.svg" width="32%" alt="My numbers: 10 apps live, 11 Flutter products, 6 apps on my template, 24 repos managed"/></a>
+<a href="#-published-apps"><img src="assets/phone-freelance.svg" width="32%" alt="Freelance apps and current work"/></a>
+
+<sub>Tap a phone to jump to the app links or my roles.</sub>
+
 </div>
 
-Flutter developer who also works across **React Native, Supabase, TypeScript backends and Linux/Docker servers**. I build apps end to end, from design to store release, and I use **Claude Code** multi-agent workflows for builds, QA and audits.
-
-<div align="center">
-<img src="assets/phones.svg" width="100%" alt="Apps I built, shown on three phone screens: Dot Tech client apps, my numbers, freelance apps"/>
-</div>
+I use **Claude Code** multi-agent workflows for builds, QA and audits, and I manage Apple Developer and Google Play organisation accounts end to end.
 
 ## 🧭 Where I've worked
 
