@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Abdalrhman Attar — Mobile & Full-Stack Developer, Amman, Jordan"/>
+<img src="assets/header.svg" width="100%" alt="Abdalrhman Attar, Mobile & Full-Stack Developer, Amman, Jordan"/>
 
+<a href="https://abdalrhmanattar.com"><img src="https://img.shields.io/badge/Portfolio-abdalrhmanattar.com-E5480F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: abdalrhmanattar.com"/></a>
 <a href="https://www.linkedin.com/in/abdalrhmanalattar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alattarabdalrhman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://abdalrhmanattar.com/Abdalrhman_Attar_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-121212?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download my CV (PDF)"/></a>
 
 <br/>
 
@@ -14,6 +16,8 @@
 <sub>Tap a phone to jump to the app links or my roles.</sub>
 
 </div>
+
+🌐 **See my work live at [abdalrhmanattar.com](https://abdalrhmanattar.com)**: an interactive portfolio where you can pick up real 3D phones and open my apps in them.
 
 I use **Claude Code** multi-agent workflows for builds, QA and audits, and I manage Apple Developer and Google Play organisation accounts end to end.
 
